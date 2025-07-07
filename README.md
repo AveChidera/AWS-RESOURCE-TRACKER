@@ -4,6 +4,4 @@ EC2 Instances (IDs, types, states)
 
 S3 Buckets
 
-Lambda Functions
-
-IAM Users
+RDS
